@@ -1,21 +1,15 @@
-# todolist
+### 2018-5-19 初始化项目
 
-> A Vue.js project
+- `vue init webpack todolist`
+- 使用`ESlint`
 
-## Build Setup
+### 2018-5-19 完工
 
-``` bash
-# install dependencies
-npm install
+- 删除默认单文件组件`HelloWorld`
+- 修改`App`根组件内容
+- 实现`Todolist`增加数据
+- 实现`Todolist`删除数据
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### 2018-5-19 修复
+- 修正`README`文件位置
+- 添加非`vue-cli`脚手架下的`vue.html`文件
